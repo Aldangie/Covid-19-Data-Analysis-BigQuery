@@ -150,7 +150,30 @@ Despite having the largest population, Asia reported fewer deaths than the Ameri
 
 ---
 
-### 7. Vaccination Rates
+### 7. Global Totals and Death Percentage
+
+I calculated the total number of reported Covid-19 cases and deaths worldwide between 2020 and 2021. This helped provide a high-level overview of the global impact of the pandemic.
+
+```sql
+SELECT 
+    SUM(new_cases) as total_cases, 
+    SUM(new_deaths) as total_deaths, 
+    SUM (new_deaths) / SUM (new_cases)*100 as death_percentage
+FROM `covid-deaths-portfolio-455713.covid_deaths.deaths_data`
+--WHERE location like '%germany%'
+WHERE continent IS NOT NULL AND total_cases IS NOT NULL AND total_deaths IS NOT NULL
+ORDER BY total_cases, total_deaths;
+```
+
+- **Total cases**: 150,543,658
+- **Total deaths**: 3,180,205
+- **Global death rate**: 2.11%
+
+This shows that, globally, around 2 out of every 100 reported Covid-19 cases resulted in death during that period.
+
+---
+
+### 8. Vaccination Rates
 
 As of April 2021, some countries had made significant progress in vaccinating their populations
 
