@@ -194,7 +194,7 @@ ORDER BY Vaccination_Percentage DESC
 LIMIT 10;
 ```
 
-- **Gibraltar**: 182.12% vaccinated
+- **Gibraltar**: 182.12%
 - **Israel**: 121.28%
 - **United Arab Emirates**: 95.8%
 
