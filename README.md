@@ -194,11 +194,11 @@ ORDER BY Vaccination_Percentage DESC
 LIMIT 10;
 ```
 
-- **United Arab Emirates**: 95.8% vaccinated
-- **Chile**: 77.25%
-- **Malta**: 71.91%
+- **Gibraltar**: 182.12% vaccinated
+- **Israel**: 121.28%
+- **United Arab Emirates**: 95.8%
 
-The data suggests that small, wealthy, or well-organized countries were more successful in quickly rolling out vaccines. This played a crucial role in reducing future death rates and case severity.
+Some countries exceeded 100% due to the inclusion of second doses, boosters, and vaccination of non-residents. This highlights how smaller or well-organized nations were often quicker and more efficient in their vaccine rollout.
 
 ---
 
