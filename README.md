@@ -88,8 +88,7 @@ This finding shows that smaller populations with dense urban centers or limited 
 ### 4. Countries with the Highest Covid Death Rate Relative to Population
 
 When comparing **deaths per capita**, I found that:
-- **Bosnia and Herzegovina**, **Montenegro**, and **Bulgaria** had the highest death rates
-
+- **Hungary**, **Czechia**, and **San Marino** had the highest death rates, followed closely by **Bosnia and Herzegovina**, **Montenegro**, and **Bulgaria**.
 ```sql
 SELECT
    location,
