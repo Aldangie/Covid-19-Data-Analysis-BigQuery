@@ -124,6 +124,7 @@ ORDER BY Total_Death_Count DESC;
 - **Mexico**: 216,907 deaths
 
 These figures highlight how large and populous nations—many facing early outbreaks and healthcare system challenges—were especially hard-hit during the initial waves of the pandemic.
+
 ---
 
 ### 6. Continental Overview: Total Deaths by Region
