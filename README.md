@@ -119,12 +119,11 @@ GROUP BY location
 ORDER BY Total_Death_Count DESC;
 ```
 
-- **United Kingdom**: 127,775 deaths
-- **Italy**: 120,807 deaths
-- **Russia**: 108,290 deaths
+- **United States**: 576,232 deaths
+- **Brazil**: 403,781 deaths
+- **Mexico**: 216,907 deaths
 
-These figures highlight how developed nations with aging populations and early outbreaks were especially hard-hit in the first two waves.
-
+These figures highlight how large and populous nations—many facing early outbreaks and healthcare system challenges—were especially hard-hit during the initial waves of the pandemic.
 ---
 
 ### 6. Continental Overview: Total Deaths by Region
