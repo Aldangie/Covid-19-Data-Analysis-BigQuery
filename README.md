@@ -63,7 +63,7 @@ While the absolute number of cases was high in countries like the U.S., the infe
 
 ### 3. Countries with the Highest Infection Rate
 
-As of April 2021, smaller countries topped the list in terms of population infection rates.
+As of April 2021, smaller or medium-sized countries topped the list in terms of population infection rates.
 
 ```sql
 SELECT
@@ -77,11 +77,11 @@ GROUP BY location, population
 ORDER BY Percentage_Population_Infected DESC;
 ```
 
-- **San Marino**: 14.93%
-- **Slovenia**: 11.56%
-- **Luxembourg**: 10.74%
+- ** Andorra**: 17.13%
+- **Montenegro**: 15.51%
+- **Czechia**: 15.23%
 
-This finding shows that smaller populations with dense urban centers or limited healthcare capacity may be more vulnerable to rapid viral spread, especially in early waves.
+These findings suggest that smaller or medium-sized nations with dense populations and limited healthcare infrastructure may have been more susceptible to widespread transmission—especially during the earlier phases of the pandemic.
 
 ---
 
