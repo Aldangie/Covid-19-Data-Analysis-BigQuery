@@ -1,6 +1,6 @@
 # Covid-19 Data Exploration (2020–2021)
 
-This project is a deep dive into global Covid-19 data from 2020 to 2021. I analyzed key indicators such as total cases, deaths, vaccination rates, and population data to understand the impact of the pandemic across different countries and continents. Through structured SQL queries, I uncovered meaningful patterns and trends to tell the story behind the numbers.
+This project is a deep dive into global Covid-19 data from 2020 to 2021. I analysed key indicators such as total cases, deaths, vaccination rates, and population data to understand the impact of the pandemic across different countries and continents. Through structured SQL queries, I uncovered meaningful patterns and trends to tell the story behind the numbers.
 
 ---
 
